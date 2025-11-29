@@ -1,14 +1,14 @@
-🌤️ #Weather App
+#🌤️ Weather App
 
 Ứng dụng dự báo thời tiết đơn giản, trực quan, sử dụng API thời tiết để hiển thị thông tin theo vị trí người dùng hoặc theo tên thành phố tìm kiếm.
 
-🚀 #Tính năng
+#🚀 Tính năng
 
 🔍 Tìm kiếm thời tiết theo tên thành phố
 
 📍 Lấy thông tin thời tiết theo vị trí hiện tại (dùng Geolocation API)
 
-🌡️ #Hiển thị đầy đủ thông số:
+#🌡️ Hiển thị đầy đủ thông số:
 
 Nhiệt độ hiện tại
 
@@ -24,7 +24,7 @@ Cảm giác như (feels like)
 
 ⚡ Giao diện đơn giản, responsive
 
-📁 #Cấu trúc thư mục
+#📁 Cấu trúc thư mục
 Weather-App/
 │── index.html
 │── style.css
@@ -33,7 +33,7 @@ Weather-App/
 │     └── (icons, images…)
 └── README.md
 
-🛠️ #Công nghệ sử dụng
+#🛠️ Công nghệ sử dụng
 
 HTML5 / CSS3 / JavaScript
 
