@@ -1,25 +1,7 @@
 # 🌤️ Weather App
 
 > Ứng dụng dự báo thời tiết hiện đại, trực quan, hỗ trợ tìm kiếm theo
-> tên thành phố hoặc lấy thông tin thời tiết theo vị trí hiện tại.
-
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Build-JavaScript-yellow?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="assets/screenshot.png" width="650px" alt="Weather App Screenshot"/>`{=html}
-```{=html}
-</p>
-```
-
+> tên thành phố hoặc lấy thông tin thời tiết theo vị trí hiện tại
 ------------------------------------------------------------------------
 
 # 📑 Table of Contents
@@ -52,14 +34,6 @@
 -   ⚡ Load nhanh, giao diện thân thiện, responsive
 
 ------------------------------------------------------------------------
-
-# 🖥️ Demo
-
-👉 **Live Demo:** *(thay link của bạn tại đây)*\
-https://your-demo-link.com
-
-------------------------------------------------------------------------
-
 # 📦 Project Structure
 
     Weather-App/
@@ -84,30 +58,6 @@ https://your-demo-link.com
 
 ------------------------------------------------------------------------
 
-# 🚀 Installation
-
-### 1️⃣ Clone repository
-
-``` sh
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
-```
-
-### 2️⃣ Run the app
-
-Ứng dụng chạy 100% client-side.
-
-Chỉ cần mở:
-
-    index.html
-
-Khuyến nghị dùng **Live Server (VSCode)** để auto reload:
-
-1.  Cài extension **Live Server**\
-2.  Nhấn **Go Live**
-
-------------------------------------------------------------------------
-
 # 🔑 API Key Setup
 
 Ứng dụng cần API Key của OpenWeatherMap.
@@ -122,21 +72,6 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 ------------------------------------------------------------------------
 
-# 📸 Screenshots
-
-### 🌤️ Giao diện chính
-
-*(Chỉnh đường dẫn nếu cần)*
-
-```{=html}
-<p align="center">
-```
-`<img src="assets/screenshot.png" width="650px"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
 
 # 🧩 Notes
 
